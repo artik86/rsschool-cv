@@ -35,4 +35,3 @@ Alert ('Всем привет');
 ###### **Languages**
 * Russian - native speaker.
 * English - A2 (But I will definitely improve my level)
-
