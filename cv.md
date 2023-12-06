@@ -10,7 +10,7 @@
 * Telegram Artem Kot
 
 #### **About Me**
-I am 35 years old, I work as a energy engineer. I think that my future job will be a web developer. 
+I am 37 years old, I work as a energy engineer. I think that my future job will be a web developer. 
 * My strengths:
 + Quick learner
 + Team playing
